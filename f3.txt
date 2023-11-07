@@ -1,0 +1,4 @@
+bbb
+git restore --staged <file>..." to unstage)
+        deleted:
+        
